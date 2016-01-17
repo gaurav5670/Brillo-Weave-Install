@@ -1,5 +1,5 @@
 # Brillo-Weave-Install
-Automated Brillo and Weave installation from public repos.
+Automated installation of Google's [Brillo](https://developers.google.com/brillo/) and [Weave](https://weave.googlesource.com/weave/libweave/) from public repos.
 
 ## Bash installation
 
